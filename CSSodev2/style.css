@@ -1,0 +1,48 @@
+.container{
+    width: 100%;
+    height: 62px;
+    background-color: rgb(170, 170, 170);
+    margin-top: 10px;
+    padding-left: 870px;
+    margin-bottom: 3px;
+}
+#search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.altKisim{
+    width: 100%;
+    height: 110px;
+    
+}
+.spes{
+    width: 33%;
+    height: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    float: left;
+    justify-content: center;
+    line-height: 2;
+    margin-right: 3px;
+}
+.info{
+    height: 100%;
+    width: 20%;
+    text-align: center;
+    background-color: rgb(68, 199, 155);
+    float: left;
+    justify-content: center;
+    line-height: 1.5;
+    margin-right: 3px;
+}
+.sub{
+    height: 100%;
+    width: 46%;
+    text-align: center;
+    background-color: rgb(46, 151, 116);
+    float: left;
+    justify-content: center;
+    line-height: 1.5;
+    margin-right: 3px;
+}
